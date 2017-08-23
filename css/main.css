@@ -1,0 +1,30 @@
+
+/* Start here */
+
+
+/*class*/
+.forget {
+	margin-left: 800px;
+	border-bottom: 1px solid black;
+}
+
+
+.para {
+	margin-top: 500px;
+	float: top;
+	border: 1px solid black;
+}
+
+
+h1 {
+	display: inline-block;
+	margin-left: 100px;
+	position: fixed;
+	top: 200px;
+	left: 27%;
+
+}
+
+
+
+

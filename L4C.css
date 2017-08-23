@@ -1,0 +1,59 @@
+
+/* Start here */
+
+body{
+	margin-top: 250px;
+	margin-right: 250px;
+	margin-left: 250px;
+	font-family: sans-serif;
+	
+}
+
+
+div.forget{
+	
+
+	text-align: right;
+	border-bottom: dashed;
+	line-height: 30px;
+	font-size: 15px;
+
+}
+	
+div.goodis{
+	border-bottom: dashed;
+	line-height: 35px;
+font-size: 10px;
+}
+
+
+
+
+div.goodis2{
+	text-align: right;
+	border-bottom: dashed;
+	line-height: 50px;
+font-size: 20px;
+}
+
+
+
+
+div.growth{
+	border-bottom: dashed;
+line-height: 65px;
+
+}
+
+div.growth2{
+	text-align: right;
+	border-bottom: dashed;
+	line-height: 80px;
+	font-size: 8px;
+}
+
+h2{
+	font-style: italic;
+}
+
+
