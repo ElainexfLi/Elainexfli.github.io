@@ -1,0 +1,59 @@
+
+/* Start here */
+
+body{
+	margin-top: 100px;
+}
+	
+
+
+div.forget{
+	color: orange;
+	background-color: red;
+	font-size: 40px;
+	font-family: futura;
+	position: fixed;
+	margin-top: 500px;
+}
+
+	
+div.G1{
+	color: yellow;
+	background-color: orange;
+	font-size: 36px;
+	font-family: futura;
+}	
+
+div.G2{
+	color: green;
+	background-color: yellow;
+	font-size: 32px;
+	font-family: futura;
+}
+
+
+div.growth1{
+	color: blue;
+	background-color: green;
+	font-size:28px;
+	font-family: futura;
+}
+
+
+div.growth2{
+	color: pink;
+	background-color: blue;
+	font-family: futura;
+	font-size: 25px;
+}
+
+div.final{
+	color: white;
+	background-color: grey;
+	text-align: center;
+	font-family: futura;
+	font-size: 20px;
+	margin-top: 600px;
+	margin-bottom: 1px;
+}
+

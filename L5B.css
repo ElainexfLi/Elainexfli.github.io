@@ -1,0 +1,36 @@
+
+/* Start here */
+
+body{
+	font-family: fantasy;
+	
+	
+	border-width: 10px;
+}
+
+
+div.as{
+	color: pink;
+	text-align: center;
+	
+}
+
+div.fg{
+	color: grey;
+	margin-left: 610px;
+	position: fixed;
+	font-size: 27px;
+	font-weight: bold;
+
+}
+
+	
+	
+
+
+div.para{
+	
+	text-align: center;
+	color: white;
+	background-color: pink;
+}
